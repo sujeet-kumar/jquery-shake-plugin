@@ -1,7 +1,7 @@
 /**
  * jQuery shake plugin
  * @author Sujeet <sujeetkv90@gmail.com>
- * @link https://github.com/sujeet-kumar/jquery-shake-plugin
+ * @link https://github.com/sujeetkv/jquery-shake-plugin
  */
 
 (function ($) {
